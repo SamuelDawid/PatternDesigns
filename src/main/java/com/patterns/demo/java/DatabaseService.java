@@ -1,4 +1,4 @@
-package com.patterns.demo.singleton.java;
+package com.patterns.demo.java;
 
 /**
  * Simulates a service that needs database config.

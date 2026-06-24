@@ -1,4 +1,4 @@
-package com.patterns.demo.singleton.java;
+package com.patterns.demo.java;
 
 /**
  * Entry point. Run this to see the Singleton in action.

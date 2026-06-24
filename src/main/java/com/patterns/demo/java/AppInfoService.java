@@ -1,4 +1,4 @@
-package com.patterns.demo.singleton.java;
+package com.patterns.demo.java;
 
 /**
  * Simulates an unrelated service that also needs config.
